@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prakash18052006
+- 👋 Hi, I’m Prakash Choudhary (@prakash18052006)
 - 👀 I’m interested in pure issues solving
 - 🌱 I’m currently learning python machine learning with web designing ai integration
 - 💞️ I’m looking to collaborate on open-source projects

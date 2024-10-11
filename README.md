@@ -1,10 +1,10 @@
-## Hi there👋, I'm
+## Hi there👋, I'm Prakash Choudhary
 
 📝 I regularly write articles on hashnode and GeeksForGeek
 
-📫 How to reach me: specialrohansharma200@gmail.com
+📫 How to reach me: prakash18052006@gmail.com
 
-📽️ Wanna see my Contributions? RS-Labhub Contributions
+📽️ Wanna see my Contributions? @prakash18052006
 
 ⚡ Fun fact I'm getting dumb day by day
 

@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Prakash Choudhary
 
-📝 I regularly write articles on hashnode and GeeksForGeek
+📝 I regularly post articles on twitter
 
 📫 How to reach me: prakash18052006@gmail.com
 
@@ -16,7 +16,10 @@
     </a>
   <a href="https://github.com/Prakash18052006" target="_blank"> <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="Image 3" width="50" height="50">
   </a>
+    <a href="https://x.com/Pc_daukiya?t=kAHFJsLk6mJt5BbqicAs7A&s=09" target="_blank"> <img src="https://cdn.dribbble.com/users/427761/screenshots/2828446/twitter.gif" alt="Image 3" width="50" height="50">
+  </a>
 </p>
+
 ## Languages and Tools ⛏️
 <!-- Images in a row -->
 <p align="center">

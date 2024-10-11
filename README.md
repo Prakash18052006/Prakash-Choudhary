@@ -10,9 +10,12 @@
 
 ## Connect with me 🧟
 <p align="center">
-    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Image 1" width="50" height="50">
-    <img src="https://media1.tenor.com/images/4eed6e3b05c52bc26c20556c53d1d90e/tenor.gif?itemid=17250147" alt="Image 2" width="50" height="50">
-   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="Image 3" width="50" height="50">
+    <a href="https://www.linkedin.com/in/codepc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Image 1" width="50" height="50">
+    </a>
+    <a href="https://discord.gg/55keTHQa" target="_blank"><img src="https://media1.tenor.com/images/4eed6e3b05c52bc26c20556c53d1d90e/tenor.gif?itemid=17250147" alt="Image 2" width="50" height="50">
+    </a>
+  <a href="https://github.com/Prakash18052006" target="_blank"> <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="Image 3" width="50" height="50">
+  </a>
 </p>
 ## Languages and Tools ⛏️
 <!-- Images in a row -->

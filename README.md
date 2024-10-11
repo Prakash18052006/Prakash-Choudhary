@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Prakash Choudhary
 
-📝 I regularly post articles on twitter
+📝 I regularly post articles on linkedin, twitter
 
 📫 How to reach me: prakash18052006@gmail.com
 
